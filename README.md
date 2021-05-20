@@ -26,6 +26,8 @@ Abaixo, seguem api´s desenvolvidas para contemplar as necessidades do projeto.
 
 ```
 
+base Url do heroku: https://synvia.herokuapp.com
+
 Geração de token:
 POST - http://localhost:3000/v1/token -> Exemplo Request Body: 
 {
